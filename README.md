@@ -17,11 +17,11 @@ O projeto foi desenvolvido com base em metodologias de **Design Centrado no Usu�
 
 A solução apresenta:
 
-- 💊 fluxo completo de gerenciamento de medicamentos;
-- 😊 registro de humor com escala numérica, sentimentos associados e anotações;
-- 📅 calendário integrado com visualização cruzada (humor + doses tomadas);
-- 📊 dashboard clínico para exportação de dados;
-- 🎨 identidade visual construída com foco em acolhimento e clareza.
+- fluxo completo de gerenciamento de medicamentos;
+- registro de humor com escala numérica, sentimentos associados e anotações;
+- calendário integrado com visualização cruzada (humor + doses tomadas);
+- dashboard clínico para exportação de dados;
+- identidade visual construída com foco em acolhimento e clareza.
 
 ---
 
@@ -40,10 +40,10 @@ A solução apresenta:
 Este repositório organiza todos os materiais produzidos ao longo do desenvolvimento do Moodicare, incluindo:
 
 - **Pesquisa de usuários**
-- **Análise comparativa (benchmark)**
+- **Análise comparativa** (benchmark)
 - **Modelagem do usuário** (personas, jornada, mapa de empatia)
 - **Engenharia de Software** (requisitos, casos de uso, banco de dados)
-- **Protótipo** e documentação visual
+- **Protótipo e documentação visual**
 - **Publicações e apresentações acadêmicas**
 
 ---
@@ -76,8 +76,7 @@ Incluindo:
 
 O benchmark incluiu:
 
-- aplicativos de adesão medicamentosa  
-- ferramentas de registro emocional  
+- aplicativos de adesão medicamentosa e de registro emocional  
 - estudos acadêmicos correlatos  
 
 **Local:**  
@@ -102,10 +101,12 @@ A modelagem técnica contempla:
 
 A identidade visual foi construída com foco em:
 
-- calor visual  
-- legibilidade  
-- componentes consistentes  
-- sistema de cores adequado ao contexto terapêutico  
+- baseada nos princípios de clareza, empatia e confiança
+- uso de uma paleta centrada no verde-água, cor associada à tranquilidade, cura e bem-estar
+- configuração de contraste e legibilidade em conformidade com as diretrizes WCAG do W3C
+- preferência por formas arredondadas, adotadas para transmitir suavidade, acessibilidade e acolhimento
+- ilustrações Blush (coleção Lifesavers, de Deivid Saenz)
+- aplicação de UX Writing conversacional, com linguagem clara e inclusiva
 
 **Local:**  
 👉 `prototipo/`
