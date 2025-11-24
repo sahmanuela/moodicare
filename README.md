@@ -3,8 +3,9 @@ Aplicativo para apoio à adesão medicamentosa e ao monitoramento emocional!
 
 <div align="center">
   
-**Protótipo em alta fidelidade | UX Research | Engenharia de Software | Saúde Mental**
   ![inferfaces-principais](./prototipo/interfaces-principais.png)
+  **Protótipo em alta fidelidade | UX Research | Engenharia de Software | Saúde Mental**
+
 </div>
 
 ---
