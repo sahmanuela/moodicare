@@ -16,11 +16,11 @@ O projeto foi desenvolvido com base em metodologias de **Design Centrado no Usu�
 
 A solução apresenta:
 
-💊 fluxo completo de gerenciamento de medicamentos;
-😊 registro de humor com escala numérica, sentimentos associados e anotações;
-📅 calendário integrado com visualização cruzada (humor + doses tomadas);
-📊 dashboard clínico para exportação de dados;
-🎨 identidade visual construída com foco em acolhimento e clareza.
+- 💊 fluxo completo de gerenciamento de medicamentos;
+- 😊 registro de humor com escala numérica, sentimentos associados e anotações;
+- 📅 calendário integrado com visualização cruzada (humor + doses tomadas);
+- 📊 dashboard clínico para exportação de dados;
+- 🎨 identidade visual construída com foco em acolhimento e clareza.
 
 ---
 
