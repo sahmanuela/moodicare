@@ -85,12 +85,6 @@ A identidade visual foi construída com foco em:
 - ilustrações Blush (coleção Lifesavers, de Deivid Saenz)
 - aplicação de UX Writing conversacional, com linguagem clara e inclusiva
 
-<div align="center">
-  
-  ![identidade-visual](./prototipo/identidade-visual.png)
-
-</div>
-
 **Local:**  
 👉 `prototipo/`
 
