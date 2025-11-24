@@ -13,6 +13,7 @@ Aplicativo para apoio à adesão medicamentosa e ao monitoramento emocional!
 ## 📌 Sobre o projeto
 
 O Moodicare é um aplicativo concebido para apoiar pessoas em tratamento contínuo, integrando mecanismos de **adesão medicamentosa**, **registro emocional** e **visualização de padrões terapêuticos**.  
+
 O projeto foi desenvolvido com base em metodologias de **Design Centrado no Usuário**, **pesquisa qualitativa**, **engenharia de software** e diretrizes de **usabilidade e acessibilidade** aplicadas ao contexto da saúde mental.
 
 A solução apresenta:
@@ -39,36 +40,12 @@ A solução apresenta:
 
 Este repositório organiza todos os materiais produzidos ao longo do desenvolvimento do Moodicare, incluindo:
 
-- **Pesquisa de usuários**
 - **Análise comparativa** (benchmark)
-- **Modelagem do usuário** (personas, jornada, mapa de empatia)
-- **Engenharia de Software** (requisitos, casos de uso, banco de dados)
+- **Análise do usuário** (personas, jornada, mapa de empatia)
+- **Engenharia de software** (requisitos, casos de uso, banco de dados)
 - **Protótipo e documentação visual**
+- **Pesquisa de usuários**
 - **Publicações e apresentações acadêmicas**
-
----
-
-## 👥 Pesquisa com usuários
-
-Foram conduzidas etapas de coleta e análise com foco na compreensão de:
-
-- rotinas terapêuticas;
-- esquecimento de medicamentos;
-- variações emocionais;
-- percepção de bem-estar;
-- interesse e aceitação da proposta.
-
-**Local dos arquivos:**  
-👉 `pesquisa-usuarios/`  
-
-**Artefatos derivados:**  
-👉 `analise-do-usuario/`  
-
-Incluindo:
-
-- personas  
-- mapa da empatia  
-- jornada do usuário  
 
 ---
 
@@ -108,9 +85,40 @@ A identidade visual foi construída com foco em:
 - ilustrações Blush (coleção Lifesavers, de Deivid Saenz)
 - aplicação de UX Writing conversacional, com linguagem clara e inclusiva
 
+<div align="center">
+  
+  ![identidade-visual](./prototipo/identidade-visual.png)
+
+</div>
+
 **Local:**  
 👉 `prototipo/`
 
+
+---
+
+
+## 👥 Pesquisa com usuários
+
+Foram conduzidas etapas de coleta e análise com foco na compreensão de:
+
+- rotinas terapêuticas;
+- esquecimento de medicamentos;
+- variações emocionais;
+- percepção de bem-estar;
+- interesse e aceitação da proposta.
+
+**Local dos arquivos:**  
+👉 `pesquisa-usuarios/`  
+
+**Artefatos derivados:**  
+👉 `analise-do-usuario/`  
+
+Incluindo:
+
+- personas  
+- mapa da empatia  
+- jornada do usuário  
 
 ---
 
