@@ -36,9 +36,6 @@ CREATE TYPE forma_farmaceutica_tipo AS ENUM (
     'gotas', 
     'liquido', 
     'injetavel', 
-    'adesivo',
-    'pomada',
-    'spray',
     'outro'
 );
 
